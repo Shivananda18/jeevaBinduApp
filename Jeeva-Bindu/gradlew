@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+
+set -e
+
+APP_NAME="gradlew"
+APP_HOME=$(pwd)
+
+CLASSPATH="$APP_HOME/gradle/wrapper/gradle-wrapper.jar"
+
+if [ ! -f "$CLASSPATH" ]; then
+  echo "ERROR: gradle-wrapper.jar is missing."
+  echo "Please generate the wrapper (gradle wrapper) or create a standard Android Studio project."
+  exit 1
+fi
+
+java -classpath "$CLASSPATH" org.gradle.wrapper.GradleWrapperMain "$@"

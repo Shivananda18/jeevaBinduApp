@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jb_red">#D32F2F</color>
+    <color name="jb_green">#2E7D32</color>
+    <color name="jb_background_light">#FFFFFF</color>
+    <color name="jb_background_dark">#121212</color>
+
+    <!-- Used by FCM default notification color metadata -->
+    <color name="notification_color">#D32F2F</color>
+</resources>

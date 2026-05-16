@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895768716192",
+    "project_id": "jeeva-bindu-7e7b8",
+    "storage_bucket": "jeeva-bindu-7e7b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895768716192:android:522bff3f1b32551a7bbac5",
+        "android_client_info": {
+          "package_name": "com.jeevabindu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2a4b5R22uyevjR8-F_b3d7RS0vTiRUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895768716192:android:b521c1dd6b67e79c7bbac5",
+        "android_client_info": {
+          "package_name": "com.jeevabindu.blooddonor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2a4b5R22uyevjR8-F_b3d7RS0vTiRUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

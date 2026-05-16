@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeeva-Bindu</string>
+    <string name="notification_channel_emergency">Emergency Alerts</string>
+    <string name="notification_channel_general">General Notifications</string>
+</resources>

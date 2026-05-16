@@ -1,0 +1,5 @@
+# Project exclude paths
+/Jeeva-Bindu/.gradle/
+/Jeeva-Bindu/app/build/
+/Jeeva-Bindu/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/Jeeva-Bindu/build/
